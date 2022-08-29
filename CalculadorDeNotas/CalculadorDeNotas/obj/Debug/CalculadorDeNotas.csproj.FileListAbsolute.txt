@@ -1,0 +1,10 @@
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\bin\Debug\CalculadorDeNotas.exe.config
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\bin\Debug\CalculadorDeNotas.exe
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\bin\Debug\CalculadorDeNotas.pdb
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\obj\Debug\CalculadorDeNotas.csproj.AssemblyReference.cache
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\obj\Debug\CalculadorDeNotas.Form1.resources
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\obj\Debug\CalculadorDeNotas.Properties.Resources.resources
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\obj\Debug\CalculadorDeNotas.csproj.GenerateResource.cache
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\obj\Debug\CalculadorDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\obj\Debug\CalculadorDeNotas.exe
+C:\Users\Etec\Desktop\CalculadorDeNotas\CalculadorDeNotas\obj\Debug\CalculadorDeNotas.pdb
