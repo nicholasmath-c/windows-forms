@@ -1,0 +1,9 @@
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\bin\Debug\JogoPerguntasRespostas.exe.config
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\bin\Debug\JogoPerguntasRespostas.exe
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\bin\Debug\JogoPerguntasRespostas.pdb
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\obj\Debug\JogoPerguntasRespostas.Form1.resources
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\obj\Debug\JogoPerguntasRespostas.Properties.Resources.resources
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\obj\Debug\JogoPerguntasRespostas.csproj.GenerateResource.cache
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\obj\Debug\JogoPerguntasRespostas.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\obj\Debug\JogoPerguntasRespostas.exe
+C:\Users\Etec\Desktop\JogoPerguntasRespostas\JogoPerguntasRespostas\obj\Debug\JogoPerguntasRespostas.pdb
