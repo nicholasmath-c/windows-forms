@@ -1,0 +1,10 @@
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe.config
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\bin\Debug\ParesImpares.pdb
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.AssemblyReference.cache
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Form1.resources
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Properties.Resources.resources
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.GenerateResource.cache
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\obj\Debug\ParesImpares.exe
+C:\Users\Etec\source\repos\ParesImpares\ParesImpares\obj\Debug\ParesImpares.pdb
