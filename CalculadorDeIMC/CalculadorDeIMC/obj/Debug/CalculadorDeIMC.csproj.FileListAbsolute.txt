@@ -1,0 +1,10 @@
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\obj\Debug\CalculadorDeIMC.csproj.AssemblyReference.cache
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\obj\Debug\CalculadorDeIMC.Form1.resources
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\obj\Debug\CalculadorDeIMC.Properties.Resources.resources
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\obj\Debug\CalculadorDeIMC.csproj.GenerateResource.cache
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\obj\Debug\CalculadorDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\bin\Debug\CalculadorDeIMC.exe.config
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\bin\Debug\CalculadorDeIMC.exe
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\bin\Debug\CalculadorDeIMC.pdb
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\obj\Debug\CalculadorDeIMC.exe
+C:\Users\Etec\Desktop\CalculadorDeIMC\CalculadorDeIMC\obj\Debug\CalculadorDeIMC.pdb
