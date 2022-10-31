@@ -1,0 +1,10 @@
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\bin\Debug\POO_Interface.exe.config
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\bin\Debug\POO_Interface.exe
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\bin\Debug\POO_Interface.pdb
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\obj\Debug\POO_Interface.csproj.AssemblyReference.cache
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\obj\Debug\POO_Interface.Calculadora.resources
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\obj\Debug\POO_Interface.Properties.Resources.resources
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\obj\Debug\POO_Interface.csproj.GenerateResource.cache
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\obj\Debug\POO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\obj\Debug\POO_Interface.exe
+C:\Users\Etec\source\repos\POO_Interface\POO_Interface\obj\Debug\POO_Interface.pdb
